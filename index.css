@@ -1,0 +1,110 @@
+/* HTML ELEMENTS ONLY */
+p {
+    margin-bottom:50px;   
+}
+
+hr {
+    color: white;
+    width: auto;
+    margin: 20px 20px;
+}
+table {
+    margin-left: 20px;
+}
+td {
+    color: white;  
+    padding-right: 10rem;
+    line-height: 2;
+}
+footer {
+    color: white;
+    display: inline;
+    padding-left: 800px;
+}
+/* CLASS ONLY */
+
+.brand-container {
+    justify-content: left;
+}
+
+.navbar-toggler {
+    align-self:left;
+}
+
+.btn {
+    margin-right: 60px;
+}
+
+.container-fluid {
+    padding: 0 30px 0 30px;
+}
+
+.d-block {
+    padding: 6px 25px;
+    border-radius: 3%;
+}
+
+.container {
+    margin: auto;
+    width: auto;
+}
+
+.max-width-container{
+    margin:0 140px;
+}
+
+.col {
+    text-align: center;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.view_all_cta {
+    text-align: center;
+    text-decoration: none;
+    color:  #4293f5;
+}
+.contact {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.download {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+
+.handle{
+    color:white;
+    margin-top: 30px;
+    margin-left: 20px ;
+    
+}
+.footer {
+    display: inline;
+}
+/* ID ONLY */
+#title {
+    width: auto;
+}
+
+#Main_logo {
+    margin-left: 30px;
+}
+
+#SB {
+    margin-top: 20px;
+    padding: 0 400px 0 400px;
+    width: auto;
+}
+
+#search {
+    padding: 12px 6px;
+}
+
+#slide {
+    padding-bottom: 50px;
+}
